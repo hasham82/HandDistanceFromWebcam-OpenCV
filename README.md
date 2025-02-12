@@ -12,11 +12,17 @@ Known Width is the average width of a human hand (set to 8 cm).
 Focal Length is a predefined constant that requires calibration (set to 500 for initial testing).
 Perceived Width is the width of the detected hand in pixels.
 Features
+
 ✅ Real-time Hand Tracking – Uses MediaPipe to detect and track hands dynamically.
+
 ✅ Bounding Box Detection – Draws a rectangle around the detected hand.
+
 ✅ Distance Estimation – Computes and displays the estimated distance in centimeters.
+
 ✅ Live Video Feed – Captures and processes frames continuously.
+
 ✅ User-Friendly Exit – Press 'q' to exit the program smoothly.
+
 
 Applications
 
